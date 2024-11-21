@@ -24,6 +24,7 @@ header .brand {
   display: inline-block;
   padding-bottom: 35px;
   border-bottom: 5px solid #484c54;
+  border-radius: 5px;
 }
 
 header .heading-page h1 {
